@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=talhaoui-ismail)](https://github.com/anuraghazra/github-readme-stats)
