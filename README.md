@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 # StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
-<<<<<<< HEAD
 <!-- STACKOVERFLOW:END -->
 
 
@@ -35,4 +34,3 @@ Here are some ideas to get you started:
 - [Answer by Gautam Krishna R for Send event when time runs out Angular5](https://stackoverflow.com/questions/50190382/send-event-when-time-runs-out-angular5/50190962#50190962)
 - [Answer by Gautam Krishna R for Angular 5 - Main bundle file is too large on the development server](https://stackoverflow.com/questions/49687569/angular-5-main-bundle-file-is-too-large-on-the-development-server/49687624#49687624)
 <!-- STACKOVERFLOW:END -->
->>>>>>> 1c90aa63a59fcbb1ea10b3e0313c766bbecb7503
