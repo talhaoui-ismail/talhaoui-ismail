@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... Spring Boot
 - ⚡ Fun fact: ... Spring Boot
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
