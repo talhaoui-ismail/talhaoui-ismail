@@ -5,12 +5,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Spring Framework
 - 🌱 I’m currently learning ... Spring Boot Framework
-- 👯 I’m looking to collaborate on ... Spring Boot
-- 🤔 I’m looking for help with ... Spring Boot
+- 👯 I’m looking to collaborate on ... Spring Boot projects
 - 💬 Ask me about ... Spring Boot
-- 📫 How to reach me: ... Spring Boot
+- 📫 How to reach me: ... Contact@ismailtalhaoui.com
 - 😄 Pronouns: ... Spring Boot
-- ⚡ Fun fact: ... Spring Boot
+
 
 <!-- BLOG-POST-LIST:START -->
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
